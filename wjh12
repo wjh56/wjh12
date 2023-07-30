@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<头>
+    <元字符集=“UTF-8”>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name =“viewport”content =“width = device-width，initial-scale = 1.0”>
+    <标题>文档</标题>
+</头>
+<正文>
+  <表格边框=“2”对齐=“中心”宽度=“500”高度=“300”>
+    <caption>列车时刻表</caption>
+    <tr对齐=“中心”>
+        <td>站名</td>
+        <td>到站时间</td>
+        <td>驾车时间</td>
+    </tr>
+    <tr对齐=“中心”>
+        <td>北京</td>
+        <td>10：30</td>
+        <td>10：50</td>
+    </tr>
+    <tr对齐=“中心”>
+        <td>上海</td>
+        <td>14：20</td>
+        <td>14：50</td>
+    </tr>
+  </表>
+</正文>
+</html>
